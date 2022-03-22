@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * Esta clase sirve para anotar el objeto de campeon con su estructura
+ * Esta clase sirve para crear los videojuegos con su estructura
  */
 @Entity
 @Access(AccessType.FIELD)

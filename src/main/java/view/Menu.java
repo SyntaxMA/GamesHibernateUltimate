@@ -67,7 +67,7 @@ public class Menu {
     }
 
     /**
-     * Este metodo sirve para mostrar un menu de rol
+     * Este metodo sirve para mostrar un menu de generos
      * @param c recibe la coneccion
      * @return devuelve el rol que elegiste
      */
@@ -90,7 +90,7 @@ public class Menu {
     }
 
     /**
-     * Este metodo sirve para mostrar un menu de rol
+     * Este metodo sirve para mostrar un menu de plataformas
      * @param c recibe la coneccion
      * @return devuelve el rol que elegiste
      */
@@ -113,7 +113,7 @@ public class Menu {
     }
 
     /**
-     * Este metodo sirve para mostrar un menu de id y nombre de campeones
+     * Este metodo sirve para mostrar un menu de id y nombre de videojuegos
      * @param c recibe la coneccion
      * @return devuelve el nombre que elegiste
      */
