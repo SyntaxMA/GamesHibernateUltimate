@@ -6,18 +6,17 @@
 
 ## Como funciona el proyecto?
 
-#### Funciona de tal manera que tu cuando ejecutas el programa se conectara al base datos con los datos que has introducido en el fichero "db.properties".
+#### Funciona de forma que cuando se ejecute el Main se conectará a la base de datos.
 
 #### Luego te mostrara un Menu que tiene una serie de opciones para que puedas elejir lo que vas a hacer.
 >
-> Tienes unas opciones que hacen:
+> Dentro podemos encontrar opciones como:
 >
-> - Borrar datos especificados
-> - Insertar datos
-> - Poblar datos desde un fichero csv que he generado en el proyecto anterior
-> - Mostrar datos en distintas maneras
-> - Modificar datos
-
+> - Borrar las tablas
+> - Insertar juegos
+> - Modificar juegos
+> - Mostrar todos los juegos
+> - Mostrar los juegos por generos
 
 # JavaDoc de la práctica:
 
