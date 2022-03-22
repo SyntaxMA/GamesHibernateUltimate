@@ -19,5 +19,6 @@
 > - Modificar datos
 
 
-# JavaDoc
+# JavaDoc de la práctica:
 
+https://syntaxma.github.io/GamesHibernateUltimate/
